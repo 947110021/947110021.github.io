@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>傲玲</title>
+  
+  <subtitle>傲玲的个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-12-28T12:39:18.798Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>傲玲</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://yoursite.com/2019/12/28/article-title/"/>
+    <id>http://yoursite.com/2019/12/28/article-title/</id>
+    <published>2019-12-28T12:39:18.000Z</published>
+    <updated>2019-12-28T12:39:18.798Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/12/28/hello-world/"/>
+    <id>http://yoursite.com/2019/12/28/hello-world/</id>
+    <published>2019-12-28T10:38:26.513Z</published>
+    <updated>2019-12-28T14:02:34.152Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
